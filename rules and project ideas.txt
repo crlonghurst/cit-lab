@@ -1,0 +1,6 @@
+The rules of the CIT Drop in Lab project.
+
+1. Code you add please add comments including what the code does and who wrote it and when.
+2. Push to your branch and not the master, because that will cause lots of problems.
+3. Please have CamelCase variable names or camelCase variable and function names.
+4. Git commit's please have a good commit message.
